@@ -1,10 +1,10 @@
 setcps 1.2
 
-d1 $sound "bleep:3 [cc circus]*2"
+d1 $sound "bleep:3 [cc circus]*2 [sd control drum]*2"
         # crush 2
         # up 2
         # gain 1.5
-        # cut 3
+        # cut 1
         # pan "1 0"
 
 d2 $sound "bd!3 [sd bd]"
